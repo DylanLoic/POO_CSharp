@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsPuzzle222_6", "OperatorsPuzzle222_6\OperatorsPuzzle222_6.csproj", "{DC20F2B1-13A1-4F54-95A0-BB68E78F3F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsPuzzle222_6Tests", "OperatorsPuzzle222_6Tests\OperatorsPuzzle222_6Tests.csproj", "{27E1E2B4-B659-461F-A6F7-19927E5C61D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC20F2B1-13A1-4F54-95A0-BB68E78F3F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC20F2B1-13A1-4F54-95A0-BB68E78F3F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC20F2B1-13A1-4F54-95A0-BB68E78F3F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC20F2B1-13A1-4F54-95A0-BB68E78F3F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E1E2B4-B659-461F-A6F7-19927E5C61D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E1E2B4-B659-461F-A6F7-19927E5C61D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E1E2B4-B659-461F-A6F7-19927E5C61D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E1E2B4-B659-461F-A6F7-19927E5C61D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAEFB742-FF97-47D9-B3F6-082BEDBD4186}
+	EndGlobalSection
+EndGlobal
